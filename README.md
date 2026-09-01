@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-First-year CS student at **EPFL**, spending most of my time at the intersection of code and math.
+First-year CS student at **EPFL**, spending most of my time on code and math.
 
-I like understanding things from the ground up — I built MLPs, CNNs and GANs **from scratch** before touching PyTorch, and it took my TM to the national final of *Sciences et Jeunesse* 🏅.
+I like understanding things from the ground up, so I built MLPs, CNNs and GANs **from scratch** before touching PyTorch. That project took my TM to the national final of *Sciences et Jeunesse* 🏅.
 
-Currently going deeper into algorithms, systems, and the math behind AI.
+Right now I'm digging into algorithms, systems and the math behind AI.
 
 ## 💻 Tech Stack
 
@@ -35,7 +35,7 @@ Currently going deeper into algorithms, systems, and the math behind AI.
   </a>
   <br/>
   <sub>MLP, CNN and GAN models from scratch and in PyTorch (MNIST, CIFAR-10/100, CelebA)<br/>
-  🏅 Mention Très Bien — Concours National Science et Jeunesse 2025</sub>
+  🏅 Mention Très Bien, Concours National Science et Jeunesse 2025</sub>
 </div>
 
 ## 📊 GitHub Stats
