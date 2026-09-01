@@ -8,15 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=Microcebe&color=764ba2&style=flat-square&label=Profile+views" alt="profile views"/>
 </div>
 
-## 👋 About Me
+## About Me
 
 First-year CS student at **EPFL**, spending most of my time on code and math.
 
-I like understanding things from the ground up, so I built MLPs, CNNs and GANs **from scratch** before touching PyTorch. That project took my TM to the national final of *Sciences et Jeunesse* 🏅.
+I like understanding things from the ground up, so I built MLPs, CNNs and GANs **from scratch** before touching PyTorch. That project took my TM to the national final of *Sciences et Jeunesse*.
 
 Right now I'm digging into algorithms, systems and the math behind AI.
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,latex,anaconda,docker,git,github,unity&perline=10" alt="tech stack"/>
@@ -27,7 +27,7 @@ Right now I'm digging into algorithms, systems and the math behind AI.
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </div>
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
   <a href="https://github.com/Microcebe/TM">
@@ -35,28 +35,5 @@ Right now I'm digging into algorithms, systems and the math behind AI.
   </a>
   <br/>
   <sub>MLP, CNN and GAN models from scratch and in PyTorch (MNIST, CIFAR-10/100, CelebA)<br/>
-  🏅 Mention Très Bien, Concours National Science et Jeunesse 2025</sub>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Microcebe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Microcebe&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Microcebe&theme=github-dark-blue&hide_border=true&background=00000000"/>
-    <img src="https://streak-stats.demolab.com?user=Microcebe&hide_border=true" alt="streak"/>
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Microcebe&layout=compact&theme=github_dark&hide_border=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Microcebe&layout=compact&theme=default&hide_border=true&count_private=true" alt="top languages"/>
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" alt="footer"/>
+   Mention Très Bien, Concours National Science et Jeunesse 2025</sub>
 </div>
